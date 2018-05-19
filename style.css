@@ -1,0 +1,44 @@
+section {
+	display: flex;
+	align-items: center;
+ 	justify-content: space-around;
+}
+
+.one {
+
+}
+
+.two{
+
+}
+
+.three{
+
+}
+
+.four{
+
+}
+
+#one{
+	top: 50%;   
+  	left: 50%;   
+  	position: absolute;  
+  	color: white;
+
+}
+
+body {
+	margin: 0;
+}
+
+
+h2{
+	background: aqua;
+	border: 2px solid black;
+	padding: 20px;
+	padding-left: 212px;
+	padding-right: 212px;
+}
+
+

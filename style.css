@@ -1,23 +1,6 @@
 section {
 	display: flex;
-	align-items: center;
  	justify-content: space-around;
-}
-
-.one {
-
-}
-
-.two{
-
-}
-
-.three{
-
-}
-
-.four{
-
 }
 
 #one{
@@ -25,7 +8,6 @@ section {
   	left: 50%;   
   	position: absolute;  
   	color: white;
-
 }
 
 body {
